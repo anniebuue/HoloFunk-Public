@@ -28,10 +28,10 @@ class StoryMenuState extends MusicBeatState
 		['Tutorial'],
 		['Live Again', 'RIP', 'Callibattle'],
 		['Sharkventure', 'Mythbuster', "Haachama"],
-		['Botan', 'Lalion', "Poi"],
+		['Baton', 'Botan', 'Lalion', "Poi"],
 		['Friday Night', "Cinderella", "Gangimari", "Hands"],
 		['Cocoa', 'Eggnog', 'Winter Horrorland'],
-		['Senpai', 'Roses', 'Thorns']
+		['Redheart', 'Casanova', 'Convince']
 	];
 	
 	var curDifficulty:Int = 1;
@@ -55,7 +55,7 @@ class StoryMenuState extends MusicBeatState
 		"WHITE LION",
 		"KIRYU CLAN FOREVER",
 		"RED SNOW (WIP)",
-		"Friday Night Funkin for PS1 (Placeholder)"
+		"AKAI HAATO"
 	];
 
 	var txtWeekTitle:FlxText;

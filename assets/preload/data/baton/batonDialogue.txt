@@ -1,0 +1,4 @@
+:bf:0:hi
+:botan:0:hi
+:bf:1:oh no gun
+:botan:0:bitch

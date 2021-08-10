@@ -38,11 +38,13 @@ class HealthIcon extends FlxSprite
 		animation.add('parents-christmas', [17, 18], 0, false, isPlayer);
 		animation.add('monster', [19, 20], 0, false, isPlayer);
 		animation.add('monster-christmas', [19, 20], 0, false, isPlayer);
+		animation.add('haato', [25, 25], 0, false, isPlayer);
+		animation.add('haachama', [24, 24], 0, false, isPlayer);
 		animation.play(char);
 
 		switch(char)
 		{
-			case 'bf-pixel' | 'senpai' | 'senpai-angry' | 'spirit' | 'gf-pixel':
+			case 'bf-pixel' | 'senpai' | 'senpai-angry' | 'spirit' | 'gf-pixel' | 'haato' | 'haachama':
 				antialiasing = false;
 		}
 

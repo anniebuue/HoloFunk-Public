@@ -54,7 +54,11 @@ class ResultsScreen extends FlxSubState
         background.scrollFactor.set();
         add(background);
 
-        music = new FlxSound().loadEmbedded(Paths.music('breakfast'), true, true);
+        if (PlayState.SONG.song == 'Senpai'){
+            music = new FlxSound().loadEmbedded(Paths.music('guraUkulele'), true, true);
+        } else {
+            music = new FlxSound().loadEmbedded(Paths.music('breakfast'), true, true);
+        }
 		music.volume = 0;
 		music.play(false, FlxG.random.int(0, Std.int(music.length / 2)));
 
@@ -167,8 +171,10 @@ class ResultsScreen extends FlxSubState
 
 	override function update(elapsed:Float)
 	{
-        if (music.volume < 0.5)
+        if (music.volume < 0.5 && PlayState.SONG.song != 'Senpai')
 			music.volume += 0.01 * elapsed;
+        else if (music.volume < 1 && PlayState.SONG.song == 'Senpai')
+            music.volume += 0.01 * elapsed;
 
         // keybinds
 

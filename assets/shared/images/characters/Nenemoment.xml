@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nenemoment.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nene dance lol0000" x="0" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0001" x="0" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0002" x="120" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0003" x="120" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0004" x="120" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0005" x="240" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0006" x="240" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0007" x="240" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0008" x="240" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0009" x="360" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0010" x="360" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0011" x="360" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0012" x="360" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0013" x="0" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0014" x="0" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0015" x="120" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0016" x="120" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0017" x="240" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0018" x="240" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0019" x="240" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0020" x="120" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0021" x="120" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0022" x="120" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0023" x="120" y="106" width="120" height="106"/>
+	<SubTexture name="nene dance lol0024" x="360" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0025" x="360" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0026" x="240" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0027" x="240" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0028" x="240" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0029" x="120" y="0" width="120" height="106"/>
+	<SubTexture name="nene dance lol0030" x="120" y="0" width="120" height="106"/>
+</TextureAtlas>

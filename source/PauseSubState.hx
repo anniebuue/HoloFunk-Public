@@ -41,7 +41,11 @@ class PauseSubState extends MusicBeatSubstate
 				GlobalVideo.get().pause();
 		}
 
-		pauseMusic = new FlxSound().loadEmbedded(Paths.music('breakfast'), true, true);
+		if (PlayState.SONG.song == 'Senpai'){
+			pauseMusic = new FlxSound().loadEmbedded(Paths.music('guraUkulele'), true, true);
+		} else {
+			pauseMusic = new FlxSound().loadEmbedded(Paths.music('breakfast'), true, true);
+		}
 		pauseMusic.volume = 0;
 		pauseMusic.play(false, FlxG.random.int(0, Std.int(pauseMusic.length / 2)));
 
@@ -101,7 +105,9 @@ class PauseSubState extends MusicBeatSubstate
 
 	override function update(elapsed:Float)
 	{
-		if (pauseMusic.volume < 0.5)
+		if (pauseMusic.volume < 0.5 && PlayState.SONG.song != 'Senpai')
+			pauseMusic.volume += 0.01 * elapsed;
+		else if (pauseMusic.volume < 1 && PlayState.SONG.song == 'Senpai')
 			pauseMusic.volume += 0.01 * elapsed;
 
 		super.update(elapsed);

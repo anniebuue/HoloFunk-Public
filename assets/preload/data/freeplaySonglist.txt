@@ -1,21 +1,26 @@
-Tutorial:gf:1
-Live Again:dad:1
-RIP:dad:1
-Callibattle:dad:1
-Sharkventure:spooky:2
-Mythbuster:spooky:2
-Haachama:monster:2
-Botan:pico:3
-Lalion:pico:3
-Poi:pico:3
-Friday Night:mom:4
-Cinderella:mom:4
-Gangimari:mom:4
-Hands:mom:4
-Weather Hackers:mom:4
-Cocoa:parents-christmas:5
-Eggnog:parents-christmas:5
-Winter Horrorland:monster-christmas:5
-Senpai:senpai:6
-Roses:senpai:6
-Thorns:spirit:6
+Tutorial:gf:1:A tutorial for players just starting on rhythm games.
+Live Again:dad:1:A mix of Live Again by Mori Calliope and Joy from Persona 3.
+RIP:dad:1:idk i didnt play this one yet lol
+Callibattle:dad:1:idk i didnt play this one yet lol
+Sharkventure:spooky:2:Sharkventure but Friday Night Funkinized!
+Mythbuster:spooky:2:Mythbuster but Friday Night Funkinized!
+Haachama:monster:2:Red Heart by Akai Haato but Friday Night Funkinized...?
+Botan:pico:3:Pico but Botan
+Lalion:pico:3:Philly but Botan
+Poi:pico:3:Blammed but Botan (damn this a bop)
+Friday Night:mom:4:some yakuza song
+Cinderella:mom:4:SU NA O NI I LOVE YOU freuejfrioshef YOU LOVE ME! ruijrghoeruiwojsfdgfs
+Gangimari:mom:4:good morning motherfuckers uuuuwawawawawawa uuuuwowo
+Hands:mom:4:Hand idk
+Weather Hackers:mom:4:Weather Hackers sung by Kiryu Coco but Friday Night Funkinized!
+Cocoa:parents-christmas:5:Cocoa by Kawaisprite
+Eggnog:parents-christmas:5:Eggnog by Kawaisprite
+Winter Horrorland:monster-christmas:5:Winter Horrorland by Bassetfilms
+Roses:senpai:6:uh oh he mad
+Thorns:spirit:6:OH SHIT HE FUCKING DIED
+Redheart:haato:6:Red Heart by Akai Haato but pixelized or whatever!
+Senpai:senpai:6:gaw guwa
+Haanger:haato:6:Stupid thorns bootleg
+Convince:haachama:6:Convince me to make a better song
+Casanova:haachama:6:Casanova by Mike Geno but pixelized or whatever!
+Baton:pico:3:lol

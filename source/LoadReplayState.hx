@@ -39,14 +39,14 @@ class LoadReplayState extends MusicBeatState
 
         controlsStrings.sort(Reflect.compare);
 
-        addWeek(['Bopeebo', 'Fresh', 'Dadbattle'], 1, ['dad']);
-        addWeek(['Spookeez', 'South', 'Monster'], 2, ['spooky']);
-        addWeek(['Pico', 'Philly', 'Blammed'], 3, ['pico']);
+        addWeek(['Bopeebo', 'Fresh', 'Dadbattle'], 1, ['dad'], "dad");
+        addWeek(['Spookeez', 'South', 'Monster'], 2, ['spooky'], "spook");
+        addWeek(['Pico', 'Philly', 'Blammed'], 3, ['pico'], "pgo");
 
-        addWeek(['Satin-Panties', 'High', 'Milf'], 4, ['mom']);
-        addWeek(['Cocoa', 'Eggnog', 'Winter-Horrorland'], 5, ['parents-christmas', 'parents-christmas', 'monster-christmas']);
+        addWeek(['Satin-Panties', 'High', 'Milf'], 4, ['mom'], "mommy");
+        addWeek(['Cocoa', 'Eggnog', 'Winter-Horrorland'], 5, ['parents-christmas', 'parents-christmas', 'monster-christmas'], "christmas");
         
-        addWeek(['Senpai', 'Roses', 'Thorns'], 6, ['senpai', 'senpai', 'spirit']);
+        addWeek(['Senpai', 'Roses', 'Thorns'], 6, ['senpai', 'senpai', 'spirit'], "handsome boy");
 
 
         for(i in 0...controlsStrings.length)
@@ -108,12 +108,12 @@ class LoadReplayState extends MusicBeatState
         return week;
     }
 
-	public function addSong(songName:String, weekNum:Int, songCharacter:String)
+	public function addSong(songName:String, weekNum:Int, songCharacter:String, songDescription:String)
         {
-            songs.push(new FreeplayState.SongMetadata(songName, weekNum, songCharacter));
+            songs.push(new FreeplayState.SongMetadata(songName, weekNum, songCharacter, songDescription));
         }
     
-        public function addWeek(songs:Array<String>, weekNum:Int, ?songCharacters:Array<String>)
+        public function addWeek(songs:Array<String>, weekNum:Int, ?songCharacters:Array<String>, songDescription:String)
         {
             if (songCharacters == null)
                 songCharacters = ['bf'];
@@ -121,7 +121,7 @@ class LoadReplayState extends MusicBeatState
             var num:Int = 0;
             for (song in songs)
             {
-                addSong(song, weekNum, songCharacters[num]);
+                addSong(song, weekNum, songCharacters[num], songDescription);
     
                 if (songCharacters.length != 1)
                     num++;

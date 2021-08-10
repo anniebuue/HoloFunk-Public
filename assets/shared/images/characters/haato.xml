@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="haato.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="haato down0000" x="0" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0001" x="0" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0002" x="120" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0003" x="120" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0004" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0005" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0006" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0007" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0008" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0009" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0010" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0011" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0012" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0013" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato down0014" x="240" y="0" width="120" height="120"/>
+	<SubTexture name="haato idle dance0000" x="360" y="0" width="120" height="120"/>
+	<SubTexture name="haato idle dance0001" x="360" y="0" width="120" height="120"/>
+	<SubTexture name="haato idle dance0002" x="0" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0003" x="0" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0004" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0005" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0006" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0007" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0008" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0009" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0010" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0011" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0012" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0013" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato idle dance0014" x="120" y="120" width="120" height="120"/>
+	<SubTexture name="haato left0000" x="240" y="120" width="120" height="120"/>
+	<SubTexture name="haato left0001" x="240" y="120" width="120" height="120"/>
+	<SubTexture name="haato left0002" x="360" y="120" width="120" height="120"/>
+	<SubTexture name="haato left0003" x="360" y="120" width="120" height="120"/>
+	<SubTexture name="haato left0004" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0005" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0006" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0007" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0008" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0009" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0010" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0011" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0012" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0013" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato left0014" x="0" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0000" x="120" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0001" x="120" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0002" x="240" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0003" x="240" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0004" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0005" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0006" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0007" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0008" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0009" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0010" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0011" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0012" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0013" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato right0014" x="360" y="240" width="120" height="120"/>
+	<SubTexture name="haato up0000" x="0" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0001" x="0" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0002" x="120" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0003" x="120" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0004" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0005" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0006" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0007" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0008" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0009" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0010" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0011" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0012" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0013" x="240" y="360" width="120" height="120"/>
+	<SubTexture name="haato up0014" x="240" y="360" width="120" height="120"/>
+</TextureAtlas>

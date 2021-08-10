@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="box_appear.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textbox appear0000" x="0" y="0" width="248" height="144" frameX="-1" frameY="0" frameWidth="249" frameHeight="158"/>
+	<SubTexture name="textbox appear0001" x="248" y="0" width="248" height="144" frameX="0" frameY="-12" frameWidth="249" frameHeight="158"/>
+	<SubTexture name="textbox appear0002" x="0" y="144" width="207" height="36" frameX="0" frameY="-109" frameWidth="249" frameHeight="158"/>
+	<SubTexture name="textbox appear0003" x="207" y="144" width="207" height="48" frameX="0" frameY="-110" frameWidth="249" frameHeight="158"/>
+	<SubTexture name="textbox appear0004" x="207" y="144" width="207" height="48" frameX="0" frameY="-110" frameWidth="249" frameHeight="158"/>
+</TextureAtlas>

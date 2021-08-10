@@ -1,131 +1,216 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="bfPixel.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BF DOWN MISS instance 10000" x="166" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10001" x="0" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10002" x="0" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10003" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10004" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10005" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10006" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10007" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10008" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10009" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10010" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10011" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10012" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN MISS instance 10013" x="83" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10000" x="166" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10001" x="166" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10002" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10003" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10004" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10005" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10006" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10007" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10008" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10009" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10010" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10011" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10012" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF DOWN NOTE instance 10013" x="249" y="0" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10000" x="332" y="0" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10001" x="332" y="0" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10002" x="415" y="0" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10003" x="415" y="0" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10004" x="0" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10005" x="0" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10006" x="83" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10007" x="83" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10008" x="166" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10009" x="166" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10010" x="166" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10011" x="166" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10012" x="166" y="83" width="73" height="73"/>
-	<SubTexture name="BF IDLE instance 10013" x="166" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10000" x="415" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10001" x="249" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10002" x="249" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10003" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10004" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10005" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10006" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10007" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10008" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10009" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10010" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10011" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10012" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT MISS instance 10013" x="332" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10000" x="415" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10001" x="415" y="83" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10002" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10003" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10004" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10005" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10006" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10007" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10008" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10009" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10010" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10011" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10012" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF LEFT NOTE instance 10013" x="0" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10000" x="249" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10001" x="83" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10002" x="83" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10003" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10004" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10005" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10006" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10007" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10008" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10009" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10010" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10011" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10012" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT MISS instance 10013" x="166" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10000" x="249" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10001" x="249" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10002" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10003" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10004" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10005" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10006" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10007" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10008" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10009" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10010" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10011" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10012" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF RIGHT NOTE instance 10013" x="332" y="166" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10000" x="83" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10001" x="415" y="166" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10002" x="415" y="166" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10003" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10004" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10005" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10006" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10007" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10008" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10009" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10010" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10011" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10012" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP MISS instance 10013" x="0" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10000" x="83" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10001" x="83" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10002" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10003" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10004" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10005" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10006" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10007" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10008" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10009" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10010" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10011" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10012" x="166" y="249" width="73" height="73"/>
-	<SubTexture name="BF UP NOTE instance 10013" x="166" y="249" width="73" height="73"/>
+	<SubTexture name="aloe go down0000" x="0" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0001" x="0" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0002" x="96" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0003" x="96" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0004" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0005" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0006" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0007" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0008" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0009" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0010" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0011" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0012" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0013" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0014" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0000" x="288" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0001" x="288" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0002" x="384" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0003" x="384" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0004" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0005" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0006" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0007" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0008" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0009" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0010" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0011" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0012" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0013" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go left0014" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0000" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0001" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0002" x="192" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0003" x="192" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0004" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0005" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0006" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0007" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0008" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0009" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0010" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0011" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0012" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0013" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go right0014" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0000" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0001" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0002" x="0" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0003" x="0" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0004" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0005" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0006" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0007" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0008" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0009" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0010" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0011" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0012" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0013" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe go up0014" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0000" x="192" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0001" x="192" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0002" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0003" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0004" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0005" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0006" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0007" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0008" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0009" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0010" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0011" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0012" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0013" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0014" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe miss down0000" x="0" y="0" width="96" height="72"/>
+	<SubTexture name="aloe miss down0001" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0002" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0003" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0004" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0005" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0006" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0007" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0008" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0009" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0010" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0011" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0012" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0013" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0014" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0015" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0016" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0017" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0018" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0019" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0020" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0021" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0022" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0023" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0024" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0025" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0026" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0027" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0028" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0029" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0030" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0031" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0032" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss down0033" x="0" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0000" x="288" y="0" width="96" height="72"/>
+	<SubTexture name="aloe miss left0001" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0002" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0003" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0004" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0005" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0006" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0007" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0008" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0009" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0010" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0011" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0012" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0013" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0014" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0015" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0016" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0017" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0018" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0019" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0020" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0021" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0022" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0023" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0024" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0025" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0026" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0027" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0028" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0029" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0030" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0031" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0032" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss left0033" x="96" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0000" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0001" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0002" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0003" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0004" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0005" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0006" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0007" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0008" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0009" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0010" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0011" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0012" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0013" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0014" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0015" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0016" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0017" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0018" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0019" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0020" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0021" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0022" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0023" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0024" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0025" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0026" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0027" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0028" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0029" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0030" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0031" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0032" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss right0033" x="192" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0000" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0001" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0002" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0003" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0004" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0005" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0006" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0007" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0008" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0009" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0010" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0011" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0012" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0013" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0014" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0015" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0016" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0017" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0018" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0019" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0020" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0021" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0022" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0023" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0024" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0025" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0026" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0027" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0028" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0029" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0030" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0031" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0032" x="288" y="216" width="96" height="72"/>
+	<SubTexture name="aloe miss up0033" x="288" y="216" width="96" height="72"/>
 </TextureAtlas>

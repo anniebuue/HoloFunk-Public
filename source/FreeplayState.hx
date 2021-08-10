@@ -9,6 +9,8 @@ import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.math.FlxMath;
 import flixel.text.FlxText;
 import flixel.util.FlxColor;
+import flixel.tweens.FlxTween;
+import flixel.tweens.FlxEase;
 import lime.utils.Assets;
 
 
@@ -33,6 +35,9 @@ class FreeplayState extends MusicBeatState
 	var intendedScore:Int = 0;
 	var combo:String = '';
 
+	var descShit:FlxText;
+	var blackBorder:FlxSprite;
+
 	private var grpSongs:FlxTypedGroup<Alphabet>;
 	private var curPlaying:Bool = false;
 
@@ -45,7 +50,7 @@ class FreeplayState extends MusicBeatState
 		for (i in 0...initSonglist.length)
 		{
 			var data:Array<String> = initSonglist[i].split(':');
-			songs.push(new SongMetadata(data[0], Std.parseInt(data[2]), data[1]));
+			songs.push(new SongMetadata(data[0], Std.parseInt(data[2]), data[1], initSonglist[i].substr((data[0].length + data[1].length + data[2].length) + 3).trim()));
 		}
 
 		/* 
@@ -145,15 +150,31 @@ class FreeplayState extends MusicBeatState
 			trace(md);
 		 */
 
+		 //Description shit
+
+		descShit = new FlxText(5, FlxG.height + 40, 0, "Description - " + songs[0].songDescription, 12);
+		descShit.scrollFactor.set();
+		descShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		
+		blackBorder = new FlxSprite(-30,FlxG.height + 40).makeGraphic((Std.int(descShit.width + 900)),Std.int(descShit.height + 600),FlxColor.BLACK);
+		blackBorder.alpha = 0.5;
+
+		add(blackBorder);
+
+		add(descShit);
+
+		FlxTween.tween(descShit,{y: FlxG.height - 18},2,{ease: FlxEase.elasticInOut});
+		FlxTween.tween(blackBorder,{y: FlxG.height - 18},2, {ease: FlxEase.elasticInOut});
+
 		super.create();
 	}
 
-	public function addSong(songName:String, weekNum:Int, songCharacter:String)
+	public function addSong(songName:String, weekNum:Int, songCharacter:String, songDescription:String)
 	{
-		songs.push(new SongMetadata(songName, weekNum, songCharacter));
+		songs.push(new SongMetadata(songName, weekNum, songCharacter, songDescription));
 	}
 
-	public function addWeek(songs:Array<String>, weekNum:Int, ?songCharacters:Array<String>)
+	public function addWeek(songs:Array<String>, weekNum:Int, ?songCharacters:Array<String>, songDescription:String)
 	{
 		if (songCharacters == null)
 			songCharacters = ['dad'];
@@ -161,7 +182,7 @@ class FreeplayState extends MusicBeatState
 		var num:Int = 0;
 		for (song in songs)
 		{
-			addSong(song, weekNum, songCharacters[num]);
+			addSong(song, weekNum, songCharacters[num], songDescription);
 
 			if (songCharacters.length != 1)
 				num++;
@@ -258,10 +279,14 @@ class FreeplayState extends MusicBeatState
 	{
 		curDifficulty += change;
 
-		if (curDifficulty < 0)
+		if (songs[curSelected].songName != "Casanova"){
+			if (curDifficulty < 0)
+				curDifficulty = 2;
+			if (curDifficulty > 2)
+				curDifficulty = 0;
+		} else {
 			curDifficulty = 2;
-		if (curDifficulty > 2)
-			curDifficulty = 0;
+		}
 
 		// adjusting the highscore song name to be compatible (changeDiff)
 		var songHighscore = StringTools.replace(songs[curSelected].songName, " ", "-");
@@ -294,6 +319,12 @@ class FreeplayState extends MusicBeatState
 		if (curSelected >= songs.length)
 			curSelected = 0;
 
+		//Casanova shit
+		if (songs[curSelected].songName == "Casanova"){
+			curDifficulty = 2;
+			diffText.text = CoolUtil.difficultyFromInt(curDifficulty).toUpperCase();
+		}
+
 		// selector.y = (70 * curSelected) + 30;
 		
 		// adjusting the highscore song name to be compatible (changeSelection)
@@ -303,6 +334,10 @@ class FreeplayState extends MusicBeatState
 			case 'Dad-Battle': songHighscore = 'Dadbattle';
 			case 'Philly-Nice': songHighscore = 'Philly';
 		}
+
+		//Description shit
+		if (descShit != null)
+			descShit.text = 'Description - "' + songs[curSelected].songDescription + '"';
 
 		#if !switch
 		intendedScore = Highscore.getScore(songHighscore, curDifficulty);
@@ -345,11 +380,13 @@ class SongMetadata
 	public var songName:String = "";
 	public var week:Int = 0;
 	public var songCharacter:String = "";
+	public var songDescription:String = "";
 
-	public function new(song:String, week:Int, songCharacter:String)
+	public function new(song:String, week:Int, songCharacter:String, songDescription:String)
 	{
 		this.songName = song;
 		this.week = week;
 		this.songCharacter = songCharacter;
+		this.songDescription = songDescription;
 	}
 }

@@ -45,6 +45,7 @@ class TitleState extends MusicBeatState
 	var credGroup:FlxGroup;
 	var credTextShit:Alphabet;
 	var textGroup:FlxGroup;
+	var stickGroup:FlxGroup;
 	var ngSpr:FlxSprite;
 
 	var curWacky:Array<String> = [];
@@ -171,7 +172,8 @@ class TitleState extends MusicBeatState
 		// bg.updateHitbox();
 		add(bg);
 
-		logoBl = new FlxSprite(-150, -100);
+		//BRUH THE FUCKIN LOGO WAS HERE I NEVER REALIZED
+		logoBl = new FlxSprite();
 		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
 		logoBl.antialiasing = true;
 		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
@@ -191,7 +193,7 @@ class TitleState extends MusicBeatState
 		add(gfDance);
 		add(logoBl);
 
-		titleText = new FlxSprite(100, FlxG.height * 0.8);
+		titleText = new FlxSprite(100, (FlxG.height * 0.8));
 		titleText.frames = Paths.getSparrowAtlas('titleEnter');
 		titleText.animation.addByPrefix('idle', "Press Enter to Begin", 24);
 		titleText.animation.addByPrefix('press', "ENTER PRESSED", 24);
@@ -203,6 +205,7 @@ class TitleState extends MusicBeatState
 
 		var logo:FlxSprite = new FlxSprite().loadGraphic(Paths.image('logo'));
 		logo.screenCenter();
+		//frickin haato logo won't center correctly smh my head
 		logo.antialiasing = true;
 		// add(logo);
 
@@ -212,6 +215,8 @@ class TitleState extends MusicBeatState
 		credGroup = new FlxGroup();
 		add(credGroup);
 		textGroup = new FlxGroup();
+		stickGroup = new FlxGroup();
+		add(stickGroup);
 
 		blackScreen = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		credGroup.add(blackScreen);
@@ -378,8 +383,22 @@ class TitleState extends MusicBeatState
 		}
 	}
 
+	var stickPeople:FlxSprite;
+
 	override function beatHit()
 	{
+		//Stick people shit
+		stickPeople = new FlxSprite(0, (FlxG.height * 0.5));
+		stickPeople.frames = Paths.getSparrowAtlas('title_sticks');
+		stickPeople.animation.addByPrefix('titleone', "stand guys", 24);
+		stickPeople.animation.addByPrefix('titletwo', "man tape", 24);
+		stickPeople.antialiasing = true;
+		stickPeople.animation.play('titleone');
+		stickPeople.updateHitbox();
+
+		// titleText.screenCenter(X);
+		//add(titleText);
+
 		super.beatHit();
 
 		logoBl.animation.play('bump');
@@ -398,25 +417,35 @@ class TitleState extends MusicBeatState
 				deleteCoolText();
 			//bugfix
 			case 2:
-				createCoolText(['Keaton Hoshida', 'Dangermad', 'Coolstalker and Galactigal', 'Cole Huff and Keki']);
+				createCoolText(['Binpuki', 'BasilFlann']);
 			// credTextShit.visible = true;
 			case 3:
 				addMoreText('present');
+				stickPeople.animation.play('titleone');
+				stickPeople.updateHitbox();
+				stickPeople.x = (FlxG.width / 2) - (stickPeople.frameWidth / 2);
+				stickGroup.add(stickPeople);
 			// credTextShit.text += '\npresent...';
 			// credTextShit.addText();
 			case 4:
 				deleteCoolText();
+				stickGroup.remove(stickGroup.members[0], true);
 			// credTextShit.visible = false;
 			// credTextShit.text = 'In association \nwith';
 			// credTextShit.screenCenter();
 			case 5:
 				if (Main.watermarks)
-					createCoolText(['Now built on', 'Kade Engine by']);
+					createCoolText(['Kade engine stfu']);
 				else
 					createCoolText(['In Partnership', 'with']);
 			case 7:
-				if (Main.watermarks)
-					addMoreText('KadeDeveloper');
+				if (Main.watermarks){
+					addMoreText('I know its outdated');
+					stickPeople.animation.play('titletwo');
+					stickPeople.updateHitbox();
+					stickPeople.x = (FlxG.width / 2) - (stickPeople.frameWidth / 2);
+					stickGroup.add(stickPeople);
+				}
 				else
 				{
 					addMoreText('Newgrounds');
@@ -426,6 +455,7 @@ class TitleState extends MusicBeatState
 			case 8:
 				deleteCoolText();
 				ngSpr.visible = false;
+				stickGroup.remove(stickGroup.members[0], true);
 			// credTextShit.visible = false;
 
 			// credTextShit.text = 'Shoutouts Tom Fulp';
@@ -438,18 +468,19 @@ class TitleState extends MusicBeatState
 			// credTextShit.text += '\nlmao';
 			case 12:
 				deleteCoolText();
+				addMoreText('Hololive Funkin');
 			// credTextShit.visible = false;
 			// credTextShit.text = "Friday";
 			// credTextShit.screenCenter();
 			case 13:
-				addMoreText('Friday Night Funkin');
+				addMoreText('X');
 			// credTextShit.visible = true;
 			case 14:
-				addMoreText('X');
+				addMoreText('Akai Haato'); // credTextShit.text += '\nFunkin';
 			// credTextShit.text += '\nNight';
 			case 15:
-				addMoreText('Hololive'); // credTextShit.text += '\nFunkin';
-
+				deleteCoolText();
+				createCoolText(['Hololive Funkin', 'X', 'Haachama']);
 			case 16:
 				skipIntro();
 		}

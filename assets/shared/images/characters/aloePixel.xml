@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aloePixel.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aloe die confirm0000" x="864" y="72" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0001" x="0" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0002" x="0" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0003" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0004" x="96" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0005" x="192" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0006" x="192" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0007" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0008" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0009" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0010" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0011" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0012" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0013" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0014" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0015" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0016" x="288" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0017" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0018" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0019" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0020" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0021" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0022" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0023" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0024" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0025" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0026" x="384" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0027" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0028" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0029" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0030" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0031" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0032" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die confirm0033" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0000" x="576" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0001" x="672" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0002" x="672" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0003" x="768" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0004" x="768" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0005" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0006" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0007" x="864" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0008" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0009" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0010" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0011" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0012" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0013" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0014" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0015" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0016" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0017" x="576" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0018" x="672" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0019" x="672" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0020" x="768" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0021" x="768" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0022" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0023" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0024" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0025" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0026" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0027" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0028" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0029" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0030" x="864" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0031" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0032" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe die loop0033" x="480" y="144" width="96" height="72"/>
+	<SubTexture name="aloe fucking dies0000" x="0" y="216" width="104" height="81"/>
+	<SubTexture name="aloe fucking dies0001" x="104" y="216" width="104" height="81"/>
+	<SubTexture name="aloe fucking dies0002" x="208" y="216" width="104" height="81"/>
+	<SubTexture name="aloe fucking dies0003" x="312" y="216" width="104" height="81"/>
+	<SubTexture name="aloe fucking dies0004" x="312" y="216" width="104" height="81"/>
+	<SubTexture name="aloe fucking dies0005" x="416" y="216" width="104" height="81"/>
+	<SubTexture name="aloe fucking dies0006" x="416" y="216" width="104" height="81"/>
+	<SubTexture name="aloe fucking dies0007" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0008" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0009" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0010" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0011" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0012" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0013" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0014" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0015" x="520" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0016" x="616" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0017" x="616" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0018" x="616" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0019" x="712" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0020" x="712" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0021" x="712" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0022" x="808" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0023" x="808" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0024" x="904" y="216" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0025" x="0" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0026" x="0" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0027" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0028" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0029" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0030" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0031" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0032" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0033" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0034" x="96" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0035" x="192" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0036" x="288" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0037" x="384" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0038" x="480" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0039" x="576" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0040" x="672" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0041" x="768" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0042" x="864" y="297" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0043" x="0" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0044" x="96" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0045" x="192" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0046" x="288" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0047" x="384" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0048" x="480" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0049" x="576" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0050" x="672" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0051" x="768" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0052" x="864" y="369" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0053" x="0" y="441" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0054" x="96" y="441" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0055" x="192" y="441" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0056" x="288" y="441" width="96" height="72" frameX="-8" frameY="-9" frameWidth="104" frameHeight="81"/>
+	<SubTexture name="aloe fucking dies0057" x="480" y="144" width="96" height="72" frameX="-8" frameY="-9" frameWidth="96" frameHeight="72"/>
+	<SubTexture name="aloe go down0000" x="0" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0001" x="0" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0002" x="96" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0003" x="96" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0004" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0005" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0006" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0007" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0008" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0009" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0010" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0011" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0012" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0013" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go down0014" x="192" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0000" x="288" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0001" x="288" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0002" x="384" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0003" x="384" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0004" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0005" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0006" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0007" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0008" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0009" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0010" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0011" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0012" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0013" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go left0014" x="480" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0000" x="576" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0001" x="576" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0002" x="672" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0003" x="672" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0004" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0005" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0006" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0007" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0008" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0009" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0010" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0011" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0012" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0013" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go right0014" x="768" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go up0000" x="864" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go up0001" x="864" y="0" width="96" height="72"/>
+	<SubTexture name="aloe go up0002" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0003" x="0" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0004" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0005" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0006" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0007" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0008" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0009" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0010" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0011" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0012" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0013" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe go up0014" x="96" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0000" x="192" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0001" x="192" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0002" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0003" x="288" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0004" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0005" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0006" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0007" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0008" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0009" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0010" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0011" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0012" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0013" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe idle dance0014" x="384" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0000" x="0" y="0" width="96" height="72"/>
+	<SubTexture name="aloe miss down0001" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0002" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0003" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0004" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0005" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0006" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0007" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0008" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0009" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0010" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0011" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0012" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0013" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0014" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0015" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0016" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0017" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0018" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0019" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0020" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0021" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0022" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0023" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0024" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0025" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0026" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0027" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0028" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0029" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0030" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0031" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0032" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss down0033" x="480" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0000" x="288" y="0" width="96" height="72"/>
+	<SubTexture name="aloe miss left0001" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0002" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0003" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0004" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0005" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0006" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0007" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0008" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0009" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0010" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0011" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0012" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0013" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0014" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0015" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0016" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0017" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0018" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0019" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0020" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0021" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0022" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0023" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0024" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0025" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0026" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0027" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0028" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0029" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0030" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0031" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0032" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss left0033" x="576" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0000" x="576" y="0" width="96" height="72"/>
+	<SubTexture name="aloe miss right0001" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0002" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0003" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0004" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0005" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0006" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0007" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0008" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0009" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0010" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0011" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0012" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0013" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0014" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0015" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0016" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0017" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0018" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0019" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0020" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0021" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0022" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0023" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0024" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0025" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0026" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0027" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0028" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0029" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0030" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0031" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0032" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss right0033" x="672" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0000" x="864" y="0" width="96" height="72"/>
+	<SubTexture name="aloe miss up0001" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0002" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0003" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0004" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0005" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0006" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0007" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0008" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0009" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0010" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0011" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0012" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0013" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0014" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0015" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0016" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0017" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0018" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0019" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0020" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0021" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0022" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0023" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0024" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0025" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0026" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0027" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0028" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0029" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0030" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0031" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0032" x="768" y="72" width="96" height="72"/>
+	<SubTexture name="aloe miss up0033" x="768" y="72" width="96" height="72"/>
+</TextureAtlas>
